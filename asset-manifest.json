@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://steelhead27.github.io/csb-bn9757/static/css/main.8eef7098.chunk.css",
+    "main.js": "https://steelhead27.github.io/csb-bn9757/static/js/main.3ed8dc11.chunk.js",
+    "main.js.map": "https://steelhead27.github.io/csb-bn9757/static/js/main.3ed8dc11.chunk.js.map",
+    "runtime-main.js": "https://steelhead27.github.io/csb-bn9757/static/js/runtime-main.65932315.js",
+    "runtime-main.js.map": "https://steelhead27.github.io/csb-bn9757/static/js/runtime-main.65932315.js.map",
+    "static/js/2.589a2979.chunk.js": "https://steelhead27.github.io/csb-bn9757/static/js/2.589a2979.chunk.js",
+    "static/js/2.589a2979.chunk.js.map": "https://steelhead27.github.io/csb-bn9757/static/js/2.589a2979.chunk.js.map",
+    "index.html": "https://steelhead27.github.io/csb-bn9757/index.html",
+    "static/css/main.8eef7098.chunk.css.map": "https://steelhead27.github.io/csb-bn9757/static/css/main.8eef7098.chunk.css.map",
+    "static/js/2.589a2979.chunk.js.LICENSE.txt": "https://steelhead27.github.io/csb-bn9757/static/js/2.589a2979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65932315.js",
+    "static/js/2.589a2979.chunk.js",
+    "static/css/main.8eef7098.chunk.css",
+    "static/js/main.3ed8dc11.chunk.js"
+  ]
+}
